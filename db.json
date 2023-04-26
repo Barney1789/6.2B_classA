@@ -1,3 +1,23 @@
+{
+	"movies":[
+	{
+        "id":1,
+        "title":"Frozen",
+        "description":"Animation",
+        "price":7.99,
+        "runtime": "102mins",
+        "4k":true
+      },
+      {
+        "id":2,
+        "title":"Harry Potter",
+        "description":"Fantasy",
+        "price":15.99,
+        "runtime": "180mins",
+        "4k":false
+      },
+	]
+		"properties":[
 	{
         "id":1,
         "title":"House of Characters",
