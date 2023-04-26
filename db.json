@@ -1,0 +1,40 @@
+	{
+        "id":1,
+        "title":"House of Characters",
+        "description":"This house of characters is tucked away in an alley",
+        "price":500000,
+        "town": "Paola",
+        "finished":false
+      },
+      {
+        "id":2,
+        "title":"Apartment",
+        "description":"This apartment is finished and fully furnished",
+        "price":250000,
+        "town": "Tarxien",
+        "finished":true
+      },
+	]
+			"Cars":[
+	{
+        "id":1,
+        "make":"Volvo",
+        "model":"XC40",
+        "price":20000,
+		"fueltype":"Diesel",
+        "color": "Paola",
+		"mileage": 55000,
+        "manual":false
+      },
+      {
+        "id":2,
+        "make":"BMW",
+        "model":"Series1",
+        "price":15000,
+		"fueltype":"Petrol",
+        "color": "Paola",
+		"mileage": 85000,
+        "manual":true
+      },
+	]
+}
